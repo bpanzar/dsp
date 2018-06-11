@@ -21,15 +21,15 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 >> pwd : show current working directory path
-   mkdir : create a directory
-   rm -r : delete a directory and all of its child directories
-   touch filename : create a file
-   rm : delete a file
-   mv filename newfilename : rename a file
-   ls -a : list hidden files
-   cp filename destination : copy a file from one director to the other
-   cat : outputs the contents of a file to the terminal
-   | : pipes the output of one command to the input of another command
+>> mkdir : create a directory
+>> rm -r : delete a directory and all of its child directories
+>> touch filename : create a file
+>> rm : delete a file
+>> mv filename newfilename : rename a file
+>> ls -a : list hidden files
+>> cp filename destination : copy a file from one director to the other
+>> cat : outputs the contents of a file to the terminal
+>> | : pipes the output of one command to the input of another command
 
 ---
 
