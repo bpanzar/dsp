@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
->> pwd : show current working directory path
->> mkdir : create a directory
->> rm -r : delete a directory and all of its child directories
->> touch filename : create a file
->> rm : delete a file
->> mv filename newfilename : rename a file
->> ls -a : list hidden files
->> cp filename destination : copy a file from one director to the other
->> cat : outputs the contents of a file to the terminal
->> | : pipes the output of one command to the input of another command
+>>pwd : show current working directory path\
+mkdir : create a directory\
+rm -r : delete a directory and all of its child directories\
+touch filename : create a file\
+rm : delete a file\
+mv filename newfilename : rename a file\
+ls -a : list hidden files\
+cp filename destination : copy a file from one director to the other\
+cat : outputs the contents of a file to the terminal\
+| : pipes the output of one command to the input of another command
 
 ---
 
@@ -44,12 +44,12 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > ls : lists the files in the current directory
-    ls -a : list files including hidden files
-    ls -l : lists all contents of a directory in long format
-    ls -lh : lists contents in long format but uses unit suffixes for file size
-    ls -lah : same as '-lh' however includes hidden entries
-    ls -t: sort by most recently modified time
+> > ls : lists the files in the current directory\
+    ls -a : list files including hidden files\
+    ls -l : lists all contents of a directory in long format\
+    ls -lh : lists contents in long format but uses unit suffixes for file size\
+    ls -lah : same as '-lh' however includes hidden entries\
+    ls -t: sort by most recently modified time\
     ls -Glp: enable colorized output and write a '/' after each directory name
 
 ---
@@ -58,10 +58,10 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > -d : displays only directories
-    -r : displays files in reverse order
-    -u : displays files by the file access time
-    -F : flags filenames
+> > -d : displays only directories\
+    -r : displays files in reverse order\
+    -u : displays files by the file access time\
+    -F : flags filenames\
     -m : displays the names as a comma-separated list
 
 ---
