@@ -70,7 +70,9 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > Researching this.
+> > xargs allows you to read multiple inputs and pass them as arguments to another utility.\
+The following command will create 3 text files in the current directory:\
+'echo file{1..3}.txt | xargs touch'
 
  
 
