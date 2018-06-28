@@ -1,5 +1,9 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
+This problem wants you to determine whether first babies are heavier or lighter than others and then compute Cohen's d to quantify the differences between the groups.  Lastly, question asks you to compare this result to the difference in pregnancy length.
+
+To solve this problem I used the outcome variable to select only appropriate pregancies.  I then divided the new DataFrame in to two DataFrames containing the first pregnancies and others using the pregordr variable.  Then I created a Series from each DataFrame containing the information in the totalwgt_lb column.  With this information I performed the required calculations to answer the problem.
+
 The following code outputs:
 ```
 Average weight of first babies: 7.204107733975324
