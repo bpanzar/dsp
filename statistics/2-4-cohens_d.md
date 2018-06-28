@@ -1,5 +1,17 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
+The following code outputs:
+```
+Average weight of first babies: 7.204107733975324
+Average weight of other babies: 7.301399825021872
+First babies weigh 0.09729209104654846 less than later babies.
+
+Effect size: 0.06911936019885215
+```
+
+The effect size for weight is slightly larger than for pregnancy length.  However it is still less than 1 standard deviation and therefore I do not think it is very significant.
+
+```python
 import math
 import numpy as np
 
@@ -40,3 +52,4 @@ def main(script):
 if __name__ == '__main__':
     import sys
     main(*sys.argv)
+```
