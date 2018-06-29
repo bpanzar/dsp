@@ -2,7 +2,7 @@
 
 >> In this problem I evaluated whether 1000 randomly generated numbers from 0 to 1 result in a uniform distribution.  To solve this I created a PMF and CDF of the 1000 numbers and then graphed the results.  The 1000 numbers are close to uniformly ditributed however not exactly.  As one can see in the PMF graph, there are bands of more and lessly dense areas.  This represents areas of more and less distributions of numbers.  On the CDF graph the line is not exactly a line representing x=y, which would be a uniform distribution.  Again, it is very close but not perfect.  For practical purposes however, I think that you could consider this distribution uniform for more uses.  
 
-![Alt Text](https://github.com/bpanzar/dsp/tree/master/statistics/4_2.png)
+![alt text](https://github.com/bpanzar/dsp/tree/master/statistics/4_2.png "4-2")
 
 ```python
 import sys
